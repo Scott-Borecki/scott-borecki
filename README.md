@@ -2,9 +2,9 @@
 🙋‍♂️ he/him <br />
 
 *** *** ***
-Passion for back-end engineering and problem-solving with over 10 years of project management and consulting experience in geotechnical engineering.  Highly motivated and detailed-oriented self-learner who thrives on living at the intersection of the technical and creative. <br /> <br />
+🤓 Passion for back-end engineering and problem-solving with over 10 years of project management and consulting experience in geotechnical engineering.  Highly motivated and detailed-oriented self-learner who thrives on living at the intersection of the technical and creative. <br /> <br />
 
-Producer and audio engineer at [Oven Fresh Sounds](https://www.ovenfreshsounds.com/)
+🎸 Producer and audio engineer at [Oven Fresh Sounds](https://www.ovenfreshsounds.com/)
 *** *** ***
 
 🎓 Back-End Engineering Student, Turing School of Software & Design, 2021 <br/>
