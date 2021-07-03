@@ -7,9 +7,9 @@
 📚 Highly motivated and detailed-oriented self-learner. <br />
 ➕ Thrives on living at the intersection of the technical and creative. <br />
 
-🎸 Producer / audio engineer, [Oven Fresh Sounds](https://www.ovenfreshsounds.com/) <br/>
-🎓 Back-End Engineering Student, [Turing School of Software & Design](https://turing.edu/), Anticipated Graduation: November 2021 <br/>
-🔎 [LinkedIn](https://www.linkedin.com/in/scott-borecki/) </br>
+🎸 Producer / audio engineer, [Oven Fresh Sounds](https://www.ovenfreshsounds.com/) <br />
+🎓 Back-End Engineering Student, [Turing School of Software & Design](https://turing.edu/), Anticipated Graduation: November 2021 <br />
+🔎 [LinkedIn](https://www.linkedin.com/in/scott-borecki/) <br />
 
 ## SKILLS
 ### LANGUAGES
@@ -42,5 +42,7 @@
   <img src="https://img.shields.io/badge/MVC%20-b8b018.svg?&style=for-the-badge&logo=MVC&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20-33b818.svg?&style=for-the-badge&logo=REST&logoColor=white" />  
 </p>
+
+<br />
 
 [![Scott's github stats](https://github-readme-stats.vercel.app/api?username=scott-borecki)](https://github.com/scott-borecki/github-readme-stats)
