@@ -91,7 +91,7 @@ I'm currently seeking a full-time role as a back-end software developer. If you 
 [git-badge]: https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white
 [github-badge]: https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white
 [heroku-badge]: https://img.shields.io/badge/Heroku-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white
-[hound-badge]: https://img.shields.io/badge/hound--ci-a774d0.svg?&style=for-the-badge&logo=hound&logoColor=white
+[hound-badge]: https://img.shields.io/badge/hound-a774d0.svg?&style=for-the-badge&logo=hound&logoColor=white
 [postgresql-badge]: https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white
 [postico-badge]: https://img.shields.io/badge/postico-000000.svg?&style=for-the-badge&logo=Postico&logoColor=white
 [postman-badge]: https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white
