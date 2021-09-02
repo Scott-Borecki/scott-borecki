@@ -4,13 +4,13 @@
 [![Email: scottborecki@gmail.com][gmail-badge]][gmail]
 [![GitHub iandouglas][github-follow-badge]][GitHub]
 
-### 💻 &nbsp; Back-End Engineer &nbsp; | &nbsp; 🦺 &nbsp; Geotechnical Engineer &nbsp; | &nbsp; 🔊 &nbsp; [Audio Engineer][oven-fresh-sounds]
+### 💻 &nbsp; Back-End Software Engineer &nbsp; | &nbsp; 🦺 &nbsp; Geotechnical Engineer &nbsp; | &nbsp; 🔊 &nbsp; [Audio Engineer][oven-fresh-sounds]
 
-***I think it's safe to say I love engineering!***
+> ***I think it's safe to say I love engineering!***
 
-> I love deep diving into how things work, building things, and making things better. My love for engineering manifests itself in many ways, from simply reading the instructions before assembling Ikea furniture to researching, designing, and custom building an acoustically-treated studio control room in my home.
-> 
-> When I'm not engineering, you can find me playing pinball in casual and competitive league settings, or hanging out with my wife and two cats.
+I love deep diving into how things work, building things, and making things better. My love for engineering manifests itself in many ways, from simply reading the instructions before assembling Ikea furniture to researching, designing, and custom building an acoustically-treated studio control room in my home.
+
+When I'm not engineering, you can find me playing pinball in casual and competitive league settings, or hanging out with my wife and two cats.
 
 I'm currently seeking a full-time role as a back-end software developer. If you have an opportunity that might be a good fit or if you just want to talk software development, music, or pinball, feel free to give me a shout!
 
