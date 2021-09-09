@@ -8,7 +8,7 @@
 
 > ***I think it's safe to say I love engineering!***
 
-I love deep diving into how things work, building things, and making things better. My love for engineering manifests itself in many ways, from simply reading the instructions before assembling Ikea furniture to researching, designing, and custom building an acoustically-treated studio control room in my home.
+Hi, I'm Scott.  I love deep diving into how things work, building things, and making things better. My love for engineering manifests itself in many ways, from simply reading the instructions before assembling Ikea furniture to researching, designing, and custom building an acoustically-treated studio control room in my home.
 
 When I'm not engineering, you can find me playing pinball in casual and competitive league settings, or hanging out with my wife and two cats.
 
@@ -61,6 +61,13 @@ I'm currently seeking a full-time role as a back-end software developer. If you 
 ![MVC][mvc-badge]
 ![REST][rest-badge]
 
+## Featured Projects
+
+[![Rails Engine][rails-engine-card]][rails-engine]
+[![Bulk Discounts][bulk-discounts-card]][bulk-discounts]
+[![Adopt, Don't Shop][adopt-dont-shop-card]][adopt-dont-shop]
+[![Enigma][enigma-card]][enigma]
+
 ## GitHub Stats
 ![Scott's GitHub Stats][github-stats-image] &nbsp; ![Scott's Top Languages][top-languages-image]
 
@@ -71,9 +78,20 @@ I'm currently seeking a full-time role as a back-end software developer. If you 
 [oven-fresh-sounds]: https://www.ovenfreshsounds.com/
 [turing]: https://turing.edu/
 
+
+<!-- PROJECT CARDS -->
+[rails-engine-card]: https://github-readme-stats.vercel.app/api/pin/?username=scott-borecki&repo=rails-engine&theme=vue
+[rails-engine]: https://github.com/scott-borecki/rails-engine
+[bulk-discounts-card]: https://github-readme-stats.vercel.app/api/pin/?username=scott-borecki&repo=little_esty_shop_bulk_discounts&theme=vue
+[bulk-discounts]: https://github.com/scott-borecki/little_esty_shop_bulk_discounts
+[adopt-dont-shop-card]: https://github-readme-stats.vercel.app/api/pin/?username=scott-borecki&repo=adopt_dont_shop&theme=vue
+[adopt-dont-shop]: https://github.com/scott-borecki/adopt_dont_shop
+[enigma-card]: https://github-readme-stats.vercel.app/api/pin/?username=scott-borecki&repo=enigma&theme=vue
+[enigma]: https://github.com/scott-borecki/enigma
+
 <!-- BADGES & IMAGES -->
-[github-stats-image]: https://github-readme-stats.vercel.app/api?username=scott-borecki&theme=dark&show_icons=true
-[top-languages-image]: https://github-readme-stats.vercel.app/api/top-langs/?username=scott-borecki&layout=compact&theme=dark
+[github-stats-image]: https://github-readme-stats.vercel.app/api?username=scott-borecki&theme=vue&show_icons=true
+[top-languages-image]: https://github-readme-stats.vercel.app/api/top-langs/?username=scott-borecki&layout=compact&theme=vue
 
 [github-follow-badge]: https://img.shields.io/github/followers/scott-borecki?label=follow&style=social
 [gmail-badge]: https://img.shields.io/badge/gmail-scottborecki@gmail.com-green?style=flat&logo=gmail&logoColor=white&color=white&labelColor=EA4335
