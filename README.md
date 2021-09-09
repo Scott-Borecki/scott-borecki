@@ -2,7 +2,7 @@
 
 [![LinkedIn: scott-borecki][linkedin-badge]][LinkedIn]
 [![Email: scottborecki@gmail.com][gmail-badge]][gmail]
-[![GitHub iandouglas][github-follow-badge]][GitHub]
+[![GitHub: Scott-Borecki][github-follow-badge]][GitHub]
 
 ### 💻 &nbsp; Back-End Software Engineer &nbsp; | &nbsp; 🦺 &nbsp; Geotechnical Engineer &nbsp; | &nbsp; 🔊 &nbsp; [Audio Engineer][oven-fresh-sounds]
 
