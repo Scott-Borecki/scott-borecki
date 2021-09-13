@@ -1,9 +1,5 @@
 # Scott Borecki (He/Him)
 
-[![LinkedIn: scott-borecki][linkedin-badge]][LinkedIn]
-[![Email: scottborecki@gmail.com][gmail-badge]][gmail]
-[![GitHub: Scott-Borecki][github-follow-badge]][GitHub]
-
 ### 💻 &nbsp; Back-End Software Engineer &nbsp; | &nbsp; 🦺 &nbsp; Geotechnical Engineer &nbsp; | &nbsp; 🔊 &nbsp; [Audio Engineer][oven-fresh-sounds]
 
 > ***I think it's safe to say I love engineering!***
@@ -13,6 +9,10 @@ Hi, I'm Scott.  I love deep diving into how things work, building things, and ma
 When I'm not engineering, you can find me playing pinball in casual and competitive league settings, or hanging out with my wife and two cats.
 
 I am currently seeking a full-time role as a back-end software developer. I have industry experience building websites and web applications. I specialize in Ruby on Rails and have professional experience working with Git, PostgreSQL, APIs, and agile workflows. Take a look at my work or get in touch!
+
+[![LinkedIn: scott-borecki][linkedin-badge]][LinkedIn]
+[![Email: scottborecki@gmail.com][gmail-badge]][gmail]
+[![GitHub: Scott-Borecki][github-follow-badge]][GitHub]
 
 ## Technical Skills
 
