@@ -12,7 +12,7 @@ Hi, I'm Scott.  I love deep diving into how things work, building things, and ma
 
 When I'm not engineering, you can find me playing pinball in casual and competitive league settings, or hanging out with my wife and two cats.
 
-I'm currently seeking a full-time role as a back-end software developer. If you have an opportunity that might be a good fit or if you just want to talk software development, music, or pinball, feel free to give me a shout!
+I am currently seeking a full-time role as a back-end software developer. I have industry experience building websites and web applications. I specialize in Ruby on Rails and have professional experience working with Git, PostgreSQL, APIs, and agile workflows. Take a look at my work or get in touch!
 
 ## Technical Skills
 
