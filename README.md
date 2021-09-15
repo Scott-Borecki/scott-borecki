@@ -8,7 +8,7 @@ Hi, I'm Scott.  I love deep diving into how things work, building things, and ma
 
 When I'm not engineering, you can find me playing pinball in casual and competitive league settings, or hanging out with my wife and two cats.
 
-I am currently seeking a full-time role as a back-end software developer in a collaborative team environment. I specialize in Ruby on Rails and have experience working with Git, PostgreSQL, building/consuming APIs, and agile workflows. Take a look at my work or get in touch!
+I am currently seeking a full-time role as a back-end software developer in a collaborative team environment. I specialize in Ruby on Rails and have experience working with Git, PostgreSQL, building/consuming APIs, and agile workflows. I am eager to expand my technical proficiency to other coding languages as well!  Take a look at my work or get in touch!
 
 [![LinkedIn: scott-borecki][linkedin-badge]][LinkedIn]
 [![Email: scottborecki@gmail.com][gmail-badge]][gmail]
