@@ -1,14 +1,14 @@
-# Scott Borecki (He/Him)
+![Blue Illustrated Technology General LinkedIn Banner (2)](https://user-images.githubusercontent.com/79381792/136055608-06d301d5-1901-4f92-8f79-3c14cfa58e03.png)
 
-### 💻 &nbsp; Back-End Software Engineer &nbsp; | &nbsp; 🦺 &nbsp; Geotechnical Engineer &nbsp; | &nbsp; 🔊 &nbsp; [Audio Engineer][oven-fresh-sounds]
+Hi, I'm Scott! 👋
 
-> ***I think it's safe to say I love engineering!***
+I am a back-end software engineer with a passion for engineering and problem-solving. I have over 10 years of project management and engineering consulting experience as a licensed professional geotechnical engineer. I also do [freelance audio engineering][oven-fresh-sounds] in my free time.
 
-Hi, I'm Scott.  I love deep diving into how things work, building things, and making things better. My love for engineering manifests itself in many ways, from simply reading the instructions before assembling Ikea furniture to researching, designing, and custom building an acoustically-treated studio control room in my home.
+As a software engineer, geotechnical engineer, and audio engineer, I think it's safe to say I love engineering! I love deep diving into how things work, building things, and making things better. My love for engineering manifests itself in many ways, from simply reading the instructions before assembling a piece of Ikea furniture to researching, designing, and custom building an acoustically-treated music production studio in my home.
 
 When I'm not engineering, you can find me playing pinball in casual and competitive league settings, or hanging out with my wife and two cats.
 
-I am currently seeking a full-time role as a software developer in a collaborative team environment. I specialize in Ruby on Rails and have experience working with Git, PostgreSQL, building/consuming APIs, and agile workflows. I am eager to expand my technical proficiency to other coding languages as well!  
+I am currently seeking a full-time role as a software engineer in a collaborative team environment. I specialize in Ruby on Rails and have experience working with Git, PostgreSQL, building/consuming APIs, and agile workflows. I am eager to expand my technical proficiency to other coding languages as well!  
 
 Take a look at my work or get in touch!
 
