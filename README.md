@@ -65,6 +65,7 @@ Take a look at my work or get in touch!
 
 ## Featured Projects
 
+[![Whether, Sweater API][whether-sweater-card]][whether-sweater]
 [![Rails Engine][rails-engine-card]][rails-engine]
 [![Bulk Discounts][bulk-discounts-card]][bulk-discounts]
 [![Adopt, Don't Shop][adopt-dont-shop-card]][adopt-dont-shop]
@@ -81,6 +82,8 @@ Take a look at my work or get in touch!
 [turing]: https://turing.edu/
 
 <!-- PROJECT CARDS -->
+[whether-sweater-card]: https://github-readme-stats.vercel.app/api/pin/?username=scott-borecki&repo=whether-sweater-api&theme=vue
+[whether-sweater]: https://github.com/Scott-Borecki/whether-sweater-api
 [rails-engine-card]: https://github-readme-stats.vercel.app/api/pin/?username=scott-borecki&repo=rails-engine&theme=vue
 [rails-engine]: https://github.com/scott-borecki/rails-engine
 [bulk-discounts-card]: https://github-readme-stats.vercel.app/api/pin/?username=scott-borecki&repo=little_esty_shop_bulk_discounts&theme=vue
