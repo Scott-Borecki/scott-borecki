@@ -2,9 +2,8 @@
 
 [![About][about-badge]](#about)
 [![Technical Skills][technical-skills-badge]](#technical-skills)
-[![Featured Projects][featured-projects-badge]](#featured-projects)
-[![Recent Explorations][recent-explorations-badge]](#recent-explorations)
-[![Honorable Mentions][honorable-mentions-badge]](#honorable-mentions)
+[![Projects][projects-badge]](#projects)
+[![GitHub Stats][github-stats-badge]](#github-stats)
 
 ## About
 
@@ -80,7 +79,9 @@ Take a look at my work or get in touch!
 ![MVC][mvc-badge]
 ![REST][rest-badge]
 
-## Featured Projects
+## Projects
+
+### 🌟 &nbsp; Featured Projects
 **[Spot Me](https://spotme-app.herokuapp.com/)** was voted the winner of [Turing School of Software & Design][turing]'s October 2021 DemoComp by a panel of industry professionals ([Press Release](https://writing.turing.edu/purpose-and-plausibility/))
 
 [![Spot Me (Back End)][spot-me-be-card]][spot-me-be]
@@ -88,13 +89,13 @@ Take a look at my work or get in touch!
 [![Whether, Sweater API][whether-sweater-card]][whether-sweater]
 [![Rails Engine][rails-engine-card]][rails-engine]
 
-## Recent Explorations
+### 🗺 &nbsp; Recent Explorations
 Follow my progress as I work through the open-source Front-End Engineering curriculum of [Turing School of Software & Design][turing].
 
 [![Hang In There][hang-in-there-card]][hang-in-there]
 
-## Honorable Mentions
-Though not necessarily the most technically-impressive projects, I really enjoyed working on these!
+### 😻 &nbsp; Honorable Mentions
+Though not necessarily the most technically-impressive projects, I really enjoyed working on these and learned a lot!
 
 [![Enigma][enigma-card]][enigma]
 [![Mastermind][mastermind-card]][mastermind]
@@ -197,6 +198,5 @@ Though not necessarily the most technically-impressive projects, I really enjoye
 
 [about-badge]: https://img.shields.io/badge/about-345d3c.svg?&style=for-the-badge&logo=ABOUT&logoColor=white
 [technical-skills-badge]: https://img.shields.io/badge/technical_skills-345d3c.svg?&style=for-the-badge&logo=technical-skills&logoColor=white
-[featured-projects-badge]: https://img.shields.io/badge/featured_projects-345d3c.svg?&style=for-the-badge&logo=featured-projects&logoColor=white
-[recent-explorations-badge]: https://img.shields.io/badge/recent_explorations-345d3c.svg?&style=for-the-badge&logo=recent-explorations&logoColor=white
-[honorable-mentions-badge]: https://img.shields.io/badge/honorable_mentions-345d3c.svg?&style=for-the-badge&logo=honorable-mentions&logoColor=white
+[projects-badge]: https://img.shields.io/badge/projects-345d3c.svg?&style=for-the-badge&logo=projects&logoColor=white
+[github-stats-badge]: https://img.shields.io/badge/github_stats-345d3c.svg?&style=for-the-badge&logo=githubstats&logoColor=white
