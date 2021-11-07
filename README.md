@@ -1,14 +1,22 @@
 ![Blue Illustrated Technology General LinkedIn Banner (2)](https://user-images.githubusercontent.com/79381792/136055608-06d301d5-1901-4f92-8f79-3c14cfa58e03.png)
 
+[![About][about-badge]](#about)
+[![Technical Skills][technical-skills-badge]](#technical-skills)
+[![Featured Projects][featured-projects-badge]](#featured-projects)
+[![Recent Explorations][recent-explorations-badge]](#recent-explorations)
+[![Honorable Mentions][honorable-mentions-badge]](#honorable-mentions)
+
+## About
+
 Hi, I'm Scott! 👋
 
-I am a back-end software engineer with a passion for engineering and problem-solving. I have over 10 years of project management and engineering consulting experience as a licensed professional geotechnical engineer. I also do [freelance audio engineering][oven-fresh-sounds] in my free time.
+I am a back-end software engineer with a passion for engineering and problem-solving. I have over 10 years of project management and engineering consulting experience as a licensed professional geotechnical engineer. I also do [freelance audio engineering][oven-fresh-sounds] in my free time.  I started my software engineering journey after attending [Turing School of Software & Design][turing]'s Back-End Engineering program in 2021.
 
 As a software engineer, geotechnical engineer, and audio engineer, I think it's safe to say I love engineering! I love deep diving into how things work, building things, and making things better. My love for engineering manifests itself in many ways, from simply reading the instructions before assembling a piece of Ikea furniture to researching, designing, and custom building an acoustically-treated music production studio in my home.
 
 When I'm not engineering, you can find me playing pinball in casual and competitive league settings, or hanging out with my wife and two cats.
 
-I am currently seeking a full-time role as a software engineer in a collaborative team environment. I specialize in Ruby on Rails and have experience working with Git, PostgreSQL, building/consuming APIs, and agile workflows. I am eager to expand my technical proficiency to other coding languages as well!  
+I am currently seeking a full-time role as a software engineer in a collaborative team environment. I specialize in Ruby on Rails and have experience working with Git, PostgreSQL, building/consuming APIs, and agile workflows. I am currently learning JavaScript and working through the open-source Front-End Engineering curriculum of [Turing School of Software & Design][turing].  I am eager to expand my technical proficiency to other coding languages as well!  
 
 Take a look at my work or get in touch!
 
@@ -21,10 +29,11 @@ Take a look at my work or get in touch!
 ### 🏗 &nbsp; Frameworks & Languages
 ![RubyOnRails][rails-badge]
 ![Ruby][ruby-badge]
-![HTML][html-badge]
-![CSS][css-badge]
 ![SQL][sql-badge]
 ![ActiveRecord][active-record-badge]
+![HTML][html-badge]
+![CSS][css-badge]
+![JavaScript][js-badge]
 
 ### 🛠 &nbsp; Tools
 
@@ -38,8 +47,12 @@ Take a look at my work or get in touch!
 ![Postman][postman-badge]
 ![Slack][slack-badge]
 ![travis-ci][travis-ci-badge]
+![circle-ci][circle-ci-badge]
 
-### 💎 &nbsp; Gems
+### 🚀 &nbsp; Low-Code/No-Code Tools
+![retool][retool-badge]
+
+### 💎 &nbsp; Ruby Gems
 ![Bootstrap][bootstrap-badge]
 ![Capybara][capybara-badge]
 ![FactoryBot][factorybot-badge]
@@ -57,6 +70,10 @@ Take a look at my work or get in touch!
 ![VCR][vcr-badge]
 ![Webmock][webmock-badge]
 
+### 📚 &nbsp; JavaScript Libraries
+![lodash][lodash-badge]
+![moment][moment-badge]
+
 ### 💬 &nbsp; Processes
 ![OOP][oop-badge]
 ![TDD][tdd-badge]
@@ -64,12 +81,25 @@ Take a look at my work or get in touch!
 ![REST][rest-badge]
 
 ## Featured Projects
+**[Spot Me](https://spotme-app.herokuapp.com/)** was voted the winner of [Turing School of Software & Design][turing]'s October 2021 DemoComp by a panel of industry professionals ([Press Release](https://writing.turing.edu/purpose-and-plausibility/))
 
+[![Spot Me (Back End)][spot-me-be-card]][spot-me-be]
+[![Spot Me (Front End)][spot-me-fe-card]][spot-me-fe]
 [![Whether, Sweater API][whether-sweater-card]][whether-sweater]
 [![Rails Engine][rails-engine-card]][rails-engine]
+
+## Recent Explorations
+Follow my progress as I work through the open-source Front-End Engineering curriculum of [Turing School of Software & Design][turing].
+
+[![Hang In There][hang-in-there-card]][hang-in-there]
+
+## Honorable Mentions
+Though not necessarily the most technically-impressive projects, I really enjoyed working on these!
+
+[![Enigma][enigma-card]][enigma]
+[![Mastermind][mastermind-card]][mastermind]
 [![Bulk Discounts][bulk-discounts-card]][bulk-discounts]
 [![Adopt, Don't Shop][adopt-dont-shop-card]][adopt-dont-shop]
-[![Enigma][enigma-card]][enigma]
 
 ## GitHub Stats
 ![Scott's GitHub Stats][github-stats-image] &nbsp; ![Scott's Top Languages][top-languages-image]
@@ -81,17 +111,33 @@ Take a look at my work or get in touch!
 [oven-fresh-sounds]: https://www.ovenfreshsounds.com/
 [turing]: https://turing.edu/
 
-<!-- PROJECT CARDS -->
+<!-- PROJECT CARDS --> 
+[spot-me-be-card]: https://github-readme-stats.vercel.app/api/pin/?username=tvaroglu&repo=spot_me_backend&theme=vue
+[spot-me-be]: https://github.com/tvaroglu/spot_me_backend
+
+[spot-me-fe-card]: https://github-readme-stats.vercel.app/api/pin/?username=tvaroglu&repo=spot_me_frontend&theme=vue
+[spot-me-fe]: https://github.com/tvaroglu/spot_me_frontend
+
 [whether-sweater-card]: https://github-readme-stats.vercel.app/api/pin/?username=scott-borecki&repo=whether-sweater-api&theme=vue
 [whether-sweater]: https://github.com/Scott-Borecki/whether-sweater-api
+
+[hang-in-there-card]: https://github-readme-stats.vercel.app/api/pin/?username=scott-borecki&repo=hang-in-there&theme=vue
+[hang-in-there]: https://github.com/Scott-Borecki/hang-in-there
+
 [rails-engine-card]: https://github-readme-stats.vercel.app/api/pin/?username=scott-borecki&repo=rails-engine&theme=vue
 [rails-engine]: https://github.com/scott-borecki/rails-engine
+
 [bulk-discounts-card]: https://github-readme-stats.vercel.app/api/pin/?username=scott-borecki&repo=little_esty_shop_bulk_discounts&theme=vue
 [bulk-discounts]: https://github.com/scott-borecki/little_esty_shop_bulk_discounts
+
 [adopt-dont-shop-card]: https://github-readme-stats.vercel.app/api/pin/?username=scott-borecki&repo=adopt_dont_shop&theme=vue
 [adopt-dont-shop]: https://github.com/scott-borecki/adopt_dont_shop
+
 [enigma-card]: https://github-readme-stats.vercel.app/api/pin/?username=scott-borecki&repo=enigma&theme=vue
 [enigma]: https://github.com/scott-borecki/enigma
+
+[mastermind-card]: https://github-readme-stats.vercel.app/api/pin/?username=scott-borecki&repo=mastermind&theme=vue
+[mastermind]: https://github.com/scott-borecki/mastermind
 
 <!-- BADGES & IMAGES -->
 [github-stats-image]: https://github-readme-stats.vercel.app/api?username=scott-borecki&theme=vue&show_icons=true
@@ -104,9 +150,10 @@ Take a look at my work or get in touch!
 [rails-badge]: https://img.shields.io/badge/Ruby%20on%20Rails-345d3c.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white
 
 [ruby-badge]: https://img.shields.io/badge/ruby-345d3c.svg?&style=for-the-badge&logo=ruby&logoColor=white
+[sql-badge]: https://img.shields.io/badge/SQL-345d3c.svg?style=for-the-badge&logo=SQL&logoColor=white
 [html-badge]: https://img.shields.io/badge/html5-345d3c.svg?&style=for-the-badge&logo=html5&logoColor=white
 [css-badge]: https://img.shields.io/badge/css3-345d3c.svg?&style=for-the-badge&logo=css3&logoColor=white
-[sql-badge]: https://img.shields.io/badge/SQL-345d3c.svg?style=for-the-badge&logo=SQL&logoColor=white
+[js-badge]: https://img.shields.io/badge/JavaScript-345d3c.svg?&style=for-the-badge&logo=javascript&logoColor=white
 [active-record-badge]: https://img.shields.io/badge/ActiveRecord-345d3c.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white
 
 [atom-badge]: https://img.shields.io/badge/Atom-345d3c.svg?&style=for-the-badge&logo=atom&logoColor=white
@@ -119,6 +166,9 @@ Take a look at my work or get in touch!
 [postman-badge]: https://img.shields.io/badge/Postman-345d3c.svg?&style=for-the-badge&logo=postman&logoColor=white
 [slack-badge]: https://img.shields.io/badge/Slack-345d3c.svg?&style=for-the-badge&logo=slack&logoColor=white
 [travis-ci-badge]: https://img.shields.io/badge/travis--ci-345d3c.svg?&style=for-the-badge&logo=travis&logoColor=white
+[circle-ci-badge]: https://img.shields.io/badge/CircleCI-345d3c.svg?&style=for-the-badge&logo=circleci&logoColor=white
+
+[retool-badge]: https://img.shields.io/badge/Retool-345d3c.svg?&style=for-the-badge&logo=retool&logoColor=white
 
 [bootstrap-badge]: https://img.shields.io/badge/bootstrap-345d3c.svg?&style=for-the-badge&logo=bootstrap&logoColor=white
 [capybara-badge]: https://img.shields.io/badge/capybara-345d3c.svg?&style=for-the-badge&logo=rubygems&logoColor=white
@@ -137,7 +187,16 @@ Take a look at my work or get in touch!
 [vcr-badge]: https://img.shields.io/badge/vcr-345d3c.svg?&style=for-the-badge&logo=rubygems&logoColor=white
 [webmock-badge]: https://img.shields.io/badge/webmock-345d3c.svg?&style=for-the-badge&logo=rubygems&logoColor=white
 
+[lodash-badge]: https://img.shields.io/badge/Lodash-345d3c.svg?&style=for-the-badge&logo=lodash&logoColor=white
+[moment-badge]: https://img.shields.io/badge/moment%2Ejs-345d3c.svg?&style=for-the-badge&logo=moment&logoColor=white
+
 [oop-badge]: https://img.shields.io/badge/OOP-345d3c.svg?&style=for-the-badge&logo=OOP&logoColor=white
 [tdd-badge]: https://img.shields.io/badge/TDD-345d3c.svg?&style=for-the-badge&logo=TDD&logoColor=white
 [mvc-badge]: https://img.shields.io/badge/MVC-345d3c.svg?&style=for-the-badge&logo=MVC&logoColor=white
 [rest-badge]: https://img.shields.io/badge/REST-345d3c.svg?&style=for-the-badge&logo=REST&logoColor=white
+
+[about-badge]: https://img.shields.io/badge/about-345d3c.svg?&style=for-the-badge&logo=ABOUT&logoColor=white
+[technical-skills-badge]: https://img.shields.io/badge/technical_skills-345d3c.svg?&style=for-the-badge&logo=technical-skills&logoColor=white
+[featured-projects-badge]: https://img.shields.io/badge/featured_projects-345d3c.svg?&style=for-the-badge&logo=featured-projects&logoColor=white
+[recent-explorations-badge]: https://img.shields.io/badge/recent_explorations-345d3c.svg?&style=for-the-badge&logo=recent-explorations&logoColor=white
+[honorable-mentions-badge]: https://img.shields.io/badge/honorable_mentions-345d3c.svg?&style=for-the-badge&logo=honorable-mentions&logoColor=white
