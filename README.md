@@ -13,9 +13,9 @@ I am a back-end software engineer with a passion for engineering and problem-sol
 
 As a software engineer, geotechnical engineer, and audio engineer, I think it's safe to say I love engineering! I love deep diving into how things work, building things, and making things better. My love for engineering manifests itself in many ways, from simply reading the instructions before assembling a piece of Ikea furniture to researching, designing, and custom building an acoustically-treated music production studio in my home.
 
-When I'm not engineering, you can find me playing pinball in casual and competitive league settings, or hanging out with my wife and two cats.
+When I'm not engineering, you can find me playing pinball in casual and competitive league settings, or hanging out with my partner and two cats.
 
-I am currently seeking a full-time role as a software engineer in a collaborative team environment. I specialize in Ruby on Rails and have experience working with Git, PostgreSQL, building/consuming APIs, and agile workflows. I am currently learning JavaScript and working through the open-source Front-End Engineering curriculum of [Turing School of Software & Design][turing].  I am eager to expand my technical proficiency to other coding languages as well!  
+I am currently seeking a full-time role as a software engineer in a collaborative team environment where I can scale my technical skills under strong technical mentorship. I specialize in Ruby on Rails and have experience working with Git, PostgreSQL, building/consuming APIs, and agile workflows. I am currently learning JavaScript and working through the open-source Front-End Engineering curriculum of [Turing School of Software & Design][turing].  I am eager to expand my technical proficiency to other coding languages as well!  
 
 Take a look at my work or get in touch!
 
