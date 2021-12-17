@@ -15,8 +15,6 @@ As a software engineer, geotechnical engineer, and audio engineer, I think it's 
 
 When I'm not engineering, you can find me playing pinball in casual and competitive league settings, or hanging out with my partner and two cats.
 
-I am currently seeking a full-time role as a software engineer in a collaborative team environment where I can scale my technical skills under strong technical mentorship. I specialize in Ruby on Rails and have experience working with Git, PostgreSQL, building/consuming APIs, and agile workflows. I am currently learning JavaScript and working through the open-source Front-End Engineering curriculum of [Turing School of Software & Design][turing].  I am eager to expand my technical proficiency to other coding languages as well!  
-
 Take a look at my work or get in touch!
 
 [![LinkedIn: scott-borecki][linkedin-badge]][LinkedIn]
@@ -144,9 +142,9 @@ Though not necessarily the most technically-impressive projects, I really enjoye
 [github-stats-image]: https://github-readme-stats.vercel.app/api?username=scott-borecki&theme=vue&show_icons=true
 [top-languages-image]: https://github-readme-stats.vercel.app/api/top-langs/?username=scott-borecki&layout=compact&theme=vue
 
-[github-follow-badge]: https://img.shields.io/github/followers/scott-borecki?label=follow&style=social
+[github-follow-badge]: https://img.shields.io/github/followers/scott-borecki?label=Scott-Borecki&style=social
 [gmail-badge]: https://img.shields.io/badge/gmail-scottborecki@gmail.com-green?style=flat&logo=gmail&logoColor=white&color=white&labelColor=EA4335
-[linkedin-badge]: https://img.shields.io/badge/Scott--Borecki-%23OpenToWork-green?style=flat&logo=Linkedin&logoColor=white&color=success&labelColor=0A66C2
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-Scott--Borecki-white?style=flat&logo=Linkedin&logoColor=white&color=white&labelColor=0A66C2
 
 [rails-badge]: https://img.shields.io/badge/Ruby%20on%20Rails-345d3c.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white
 
