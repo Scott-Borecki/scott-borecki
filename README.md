@@ -9,7 +9,7 @@
 
 Hi, I'm Scott! 👋
 
-I am a back-end software engineer with a passion for engineering and problem-solving. I have over 10 years of project management and engineering consulting experience as a licensed professional geotechnical engineer. I also do [freelance audio engineering][oven-fresh-sounds] in my free time.  I started my software engineering journey after attending [Turing School of Software & Design][turing]'s Back-End Engineering program in 2021.
+I am a software engineer with a passion for engineering and problem-solving. I have over 10 years of project management and engineering consulting experience as a licensed professional geotechnical engineer. I also do [freelance audio engineering][oven-fresh-sounds] in my free time.  I started my software engineering journey after attending [Turing School of Software & Design][turing]'s Back-End Engineering program in 2021.
 
 As a software engineer, geotechnical engineer, and audio engineer, I think it's safe to say I love engineering! I love deep diving into how things work, building things, and making things better. My love for engineering manifests itself in many ways, from simply reading the instructions before assembling a piece of Ikea furniture to researching, designing, and custom building an acoustically-treated music production studio in my home.
 
