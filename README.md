@@ -45,6 +45,7 @@ Take a look at my work or get in touch!
 ![Slack][slack-badge]
 ![travis-ci][travis-ci-badge]
 ![circle-ci][circle-ci-badge]
+![codefresh][codefresh-badge]
 
 ### 🚀 &nbsp; Low-Code/No-Code Tools
 ![retool][retool-badge]
@@ -52,13 +53,16 @@ Take a look at my work or get in touch!
 ### 💎 &nbsp; Ruby Gems
 ![Bootstrap][bootstrap-badge]
 ![Capybara][capybara-badge]
+![dry-rb][dry-rb-badge]
 ![FactoryBot][factorybot-badge]
 ![Faker][faker-badge]
 ![Faraday][faraday-badge]
 ![Figaro][figaro-badge]
+![Grape][grape-badge]
 ![Launchy][launchy-badge]
 ![Orderly][orderly-badge]
 ![Pry][pry-badge]
+![Pundit][pundit-badge]
 ![RSpec][rspec-badge]
 ![RuboCop][rubocop-badge]
 ![Sass][sass-badge]
@@ -87,20 +91,20 @@ Take a look at my work or get in touch!
 [![Whether, Sweater API][whether-sweater-card]][whether-sweater]
 [![Rails Engine][rails-engine-card]][rails-engine]
 
-### 🗺 &nbsp; Recent Explorations
-Follow my progress as I work through the open-source Front-End Engineering curriculum of [Turing School of Software & Design][turing].
+### 🗺 &nbsp; Explorations
+Taking off my BE hat and working through the open-source Front-End Engineering curriculum of [Turing School of Software & Design][turing].
 
 [![Hang In There][hang-in-there-card]][hang-in-there]
 
 ### 😻 &nbsp; Honorable Mentions
-Though not necessarily the most technically-impressive projects, I really enjoyed working on these and learned a lot!
+I really enjoyed working on these projects and learned a lot!
 
 [![Enigma][enigma-card]][enigma]
 [![Mastermind][mastermind-card]][mastermind]
 [![Bulk Discounts][bulk-discounts-card]][bulk-discounts]
 [![Adopt, Don't Shop][adopt-dont-shop-card]][adopt-dont-shop]
 
-## GitHub Stats
+## 📈 &nbsp; GitHub Stats
 ![Scott's GitHub Stats][github-stats-image] &nbsp; ![Scott's Top Languages][top-languages-image]
 
 <!-- LINKS -->
@@ -166,18 +170,22 @@ Though not necessarily the most technically-impressive projects, I really enjoye
 [slack-badge]: https://img.shields.io/badge/Slack-345d3c.svg?&style=for-the-badge&logo=slack&logoColor=white
 [travis-ci-badge]: https://img.shields.io/badge/travis--ci-345d3c.svg?&style=for-the-badge&logo=travis&logoColor=white
 [circle-ci-badge]: https://img.shields.io/badge/CircleCI-345d3c.svg?&style=for-the-badge&logo=circleci&logoColor=white
+[codefresh-badge]: https://img.shields.io/badge/codefresh-345d3c.svg?&style=for-the-badge&logo=codefresh&logoColor=white
 
 [retool-badge]: https://img.shields.io/badge/Retool-345d3c.svg?&style=for-the-badge&logo=retool&logoColor=white
 
 [bootstrap-badge]: https://img.shields.io/badge/bootstrap-345d3c.svg?&style=for-the-badge&logo=bootstrap&logoColor=white
 [capybara-badge]: https://img.shields.io/badge/capybara-345d3c.svg?&style=for-the-badge&logo=rubygems&logoColor=white
+[dry-rb-badge]: https://img.shields.io/badge/dry--rb-345d3c.svg?&style=for-the-badge&logo=rubygems&logoColor=white
 [factorybot-badge]: https://img.shields.io/badge/factorybot-345d3c.svg?&style=for-the-badge&logo=rubygems&logoColor=white
 [faker-badge]: https://img.shields.io/badge/faker-345d3c.svg?&style=for-the-badge&logo=rubygems&logoColor=white
 [faraday-badge]: https://img.shields.io/badge/faraday-345d3c.svg?&style=for-the-badge&logo=rubygems&logoColor=white
 [figaro-badge]: https://img.shields.io/badge/figaro-345d3c.svg?&style=for-the-badge&logo=rubygems&logoColor=white
+[grape-badge]: https://img.shields.io/badge/grape-345d3c.svg?&style=for-the-badge&logo=rubygems&logoColor=white
 [launchy-badge]: https://img.shields.io/badge/launchy-345d3c.svg?&style=for-the-badge&logo=rubygems&logoColor=white
 [orderly-badge]: https://img.shields.io/badge/orderly-345d3c.svg?&style=for-the-badge&logo=rubygems&logoColor=white
 [pry-badge]: https://img.shields.io/badge/pry-345d3c.svg?&style=for-the-badge&logo=rubygems&logoColor=white
+[pundit-badge]: https://img.shields.io/badge/pundit-345d3c.svg?&style=for-the-badge&logo=rubygems&logoColor=white
 [rspec-badge]: https://img.shields.io/badge/rspec-345d3c.svg?&style=for-the-badge&logo=rubygems&logoColor=white
 [rubocop-badge]: https://img.shields.io/badge/RuboCop-345d3c.svg?&style=for-the-badge&logo=rubygems&logoColor=white
 [sass-badge]: https://img.shields.io/badge/Sass-345d3c.svg?&style=for-the-badge&logo=sass&logoColor=white
