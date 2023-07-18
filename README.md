@@ -21,28 +21,23 @@ Take a look at my work or get in touch!
 [![Email: scottborecki@gmail.com][gmail-badge]][gmail]
 [![GitHub: Scott-Borecki][github-follow-badge]][GitHub]
 
-## Technical Skills
+## Technical Skill Highlights
 
 ### 🏗 &nbsp; Frameworks & Languages
 ![RubyOnRails][rails-badge]
 ![Ruby][ruby-badge]
-![SQL][sql-badge]
-![ActiveRecord][active-record-badge]
+![PostgreSQL][postgresql-badge]
 ![HTML][html-badge]
 ![CSS][css-badge]
 ![JavaScript][js-badge]
 
 ### 🛠 &nbsp; Tools
 
-![Atom][atom-badge]
 ![Git][git-badge]
 ![GitHub][github-badge]
 ![Heroku][heroku-badge]
-![HoundCI][hound-badge]
-![PostgreSQL][postgresql-badge]
 ![Postico][postico-badge]
 ![Postman][postman-badge]
-![Slack][slack-badge]
 ![travis-ci][travis-ci-badge]
 ![circle-ci][circle-ci-badge]
 ![codefresh][codefresh-badge]
@@ -51,22 +46,14 @@ Take a look at my work or get in touch!
 ![retool][retool-badge]
 
 ### 💎 &nbsp; Ruby Gems
-![Bootstrap][bootstrap-badge]
-![Capybara][capybara-badge]
 ![dry-rb][dry-rb-badge]
 ![FactoryBot][factorybot-badge]
 ![Faker][faker-badge]
 ![Faraday][faraday-badge]
-![Figaro][figaro-badge]
 ![Grape][grape-badge]
-![Launchy][launchy-badge]
-![Orderly][orderly-badge]
-![Pry][pry-badge]
 ![Pundit][pundit-badge]
 ![RSpec][rspec-badge]
 ![RuboCop][rubocop-badge]
-![Sass][sass-badge]
-![Shoulda-Matchers][shoulda-matchers-badge]
 ![SimpleCov][simplecov-badge]
 ![VCR][vcr-badge]
 ![Webmock][webmock-badge]
@@ -74,12 +61,6 @@ Take a look at my work or get in touch!
 ### 📚 &nbsp; JavaScript Libraries
 ![lodash][lodash-badge]
 ![moment][moment-badge]
-
-### 💬 &nbsp; Processes
-![OOP][oop-badge]
-![TDD][tdd-badge]
-![MVC][mvc-badge]
-![REST][rest-badge]
 
 ## Projects
 
@@ -150,7 +131,7 @@ I really enjoyed working on these projects and learned a lot!
 [gmail-badge]: https://img.shields.io/badge/gmail-scottborecki@gmail.com-green?style=flat&logo=gmail&logoColor=white&color=white&labelColor=EA4335
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-Scott--Borecki-white?style=flat&logo=Linkedin&logoColor=white&color=white&labelColor=0A66C2
 
-[rails-badge]: https://img.shields.io/badge/Ruby%20on%20Rails-345d3c.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white
+[rails-badge]: https://img.shields.io/badge/Rails-345d3c.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white
 
 [ruby-badge]: https://img.shields.io/badge/ruby-345d3c.svg?&style=for-the-badge&logo=ruby&logoColor=white
 [sql-badge]: https://img.shields.io/badge/SQL-345d3c.svg?style=for-the-badge&logo=SQL&logoColor=white
@@ -159,15 +140,12 @@ I really enjoyed working on these projects and learned a lot!
 [js-badge]: https://img.shields.io/badge/JavaScript-345d3c.svg?&style=for-the-badge&logo=javascript&logoColor=white
 [active-record-badge]: https://img.shields.io/badge/ActiveRecord-345d3c.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white
 
-[atom-badge]: https://img.shields.io/badge/Atom-345d3c.svg?&style=for-the-badge&logo=atom&logoColor=white
 [git-badge]: https://img.shields.io/badge/git-345d3c.svg?&style=for-the-badge&logo=git&logoColor=white
 [github-badge]: https://img.shields.io/badge/GitHub-345d3c.svg?&style=for-the-badge&logo=github&logoColor=white
 [heroku-badge]: https://img.shields.io/badge/Heroku-345d3c.svg?&style=for-the-badge&logo=heroku&logoColor=white
-[hound-badge]: https://img.shields.io/badge/hound-345d3c.svg?&style=for-the-badge&logo=hound&logoColor=white
 [postgresql-badge]: https://img.shields.io/badge/PostgreSQL-345d3c.svg?&style=for-the-badge&logo=postgresql&logoColor=white
 [postico-badge]: https://img.shields.io/badge/postico-345d3c.svg?&style=for-the-badge&logo=Postico&logoColor=white
 [postman-badge]: https://img.shields.io/badge/Postman-345d3c.svg?&style=for-the-badge&logo=postman&logoColor=white
-[slack-badge]: https://img.shields.io/badge/Slack-345d3c.svg?&style=for-the-badge&logo=slack&logoColor=white
 [travis-ci-badge]: https://img.shields.io/badge/travis--ci-345d3c.svg?&style=for-the-badge&logo=travis&logoColor=white
 [circle-ci-badge]: https://img.shields.io/badge/CircleCI-345d3c.svg?&style=for-the-badge&logo=circleci&logoColor=white
 [codefresh-badge]: https://img.shields.io/badge/codefresh-345d3c.svg?&style=for-the-badge&logo=codefresh&logoColor=white
