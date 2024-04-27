@@ -1,92 +1,52 @@
 ![Blue Illustrated Technology General LinkedIn Banner (2)](https://user-images.githubusercontent.com/79381792/136055608-06d301d5-1901-4f92-8f79-3c14cfa58e03.png)
 
-[![About][about-badge]](#about)
-[![Technical Skills][technical-skills-badge]](#technical-skills)
-[![Projects][projects-badge]](#projects)
-[![GitHub Stats][github-stats-badge]](#github-stats)
-
-## About
-
-Hi, I'm Scott! 👋
-
-I am a software engineer with a passion for engineering and problem-solving. I have over 10 years of project management and engineering consulting experience as a licensed professional geotechnical engineer. I also do [freelance audio engineering][oven-fresh-sounds] in my free time.  I started my software engineering journey after attending [Turing School of Software & Design][turing]'s Back-End Engineering program in 2021.
-
-As a software engineer, geotechnical engineer, and audio engineer, I think it's safe to say I love engineering! I love deep diving into how things work, building things, and making things better. My love for engineering manifests itself in many ways, from simply reading the instructions before assembling a piece of Ikea furniture to researching, designing, and custom building an acoustically-treated music production studio in my home.
-
-When I'm not engineering, you can find me playing pinball in casual and competitive league settings, or hanging out with my partner and two cats.
-
-Take a look at my work or get in touch!
-
 [![LinkedIn: scott-borecki][linkedin-badge]][LinkedIn]
 [![Email: scottborecki@gmail.com][gmail-badge]][gmail]
 [![GitHub: Scott-Borecki][github-follow-badge]][GitHub]
 
-## Technical Skill Highlights
+## Hi, I'm Scott! 👋
 
-### 🏗 &nbsp; Frameworks & Languages
+👨🏼‍💻 software engineer <br>
+🦺 geotechnical engineer <br>
+🎛️ audio engineer <br>
+🎯 project manager <br>
+💡 problem solver <br>
+🧙🏻‍♂️ pinball wizard <br>
+🪢 untier of knots <br>
+😻 cat dad
+
+## Languages and Tools
+
 ![RubyOnRails][rails-badge]
 ![Ruby][ruby-badge]
 ![PostgreSQL][postgresql-badge]
+![Elasticsearch][elasticsearch-badge]
+![OpenSearch][opensearch-badge]
 ![HTML][html-badge]
 ![CSS][css-badge]
 ![JavaScript][js-badge]
-
-### 🛠 &nbsp; Tools
-
+![Docker][docker-badge]
 ![Git][git-badge]
 ![GitHub][github-badge]
 ![Heroku][heroku-badge]
-![Postico][postico-badge]
 ![Postman][postman-badge]
-![travis-ci][travis-ci-badge]
 ![circle-ci][circle-ci-badge]
 ![codefresh][codefresh-badge]
-
-### 🚀 &nbsp; Low-Code/No-Code Tools
+![travis-ci][travis-ci-badge]
 ![retool][retool-badge]
-
-### 💎 &nbsp; Ruby Gems
-![dry-rb][dry-rb-badge]
-![FactoryBot][factorybot-badge]
-![Faker][faker-badge]
-![Faraday][faraday-badge]
-![Grape][grape-badge]
-![Pundit][pundit-badge]
-![RSpec][rspec-badge]
-![RuboCop][rubocop-badge]
-![SimpleCov][simplecov-badge]
-![VCR][vcr-badge]
-![Webmock][webmock-badge]
-
-### 📚 &nbsp; JavaScript Libraries
-![lodash][lodash-badge]
-![moment][moment-badge]
 
 ## Projects
 
-### 🌟 &nbsp; Featured Projects
-**[Spot Me](https://spotme-app.herokuapp.com/)** was voted the winner of [Turing School of Software & Design][turing]'s October 2021 DemoComp by a panel of industry professionals ([Press Release](https://writing.turing.edu/purpose-and-plausibility/))
-
 [![Spot Me (Back End)][spot-me-be-card]][spot-me-be]
 [![Spot Me (Front End)][spot-me-fe-card]][spot-me-fe]
+
+> **[Spot Me](https://spotme-app.herokuapp.com/)** was voted the winner of [Turing School of Software & Design][turing]'s October 2021 DemoComp ([Press](https://writing.turing.edu/purpose-and-plausibility/))
+
 [![Whether, Sweater API][whether-sweater-card]][whether-sweater]
 [![Rails Engine][rails-engine-card]][rails-engine]
-
-### 🗺 &nbsp; Explorations
-Taking off my BE hat and working through the open-source Front-End Engineering curriculum of [Turing School of Software & Design][turing].
-
-[![Hang In There][hang-in-there-card]][hang-in-there]
-
-### 😻 &nbsp; Honorable Mentions
-I really enjoyed working on these projects and learned a lot!
-
 [![Enigma][enigma-card]][enigma]
 [![Mastermind][mastermind-card]][mastermind]
-[![Bulk Discounts][bulk-discounts-card]][bulk-discounts]
-[![Adopt, Don't Shop][adopt-dont-shop-card]][adopt-dont-shop]
-
-## 📈 &nbsp; GitHub Stats
-![Scott's GitHub Stats][github-stats-image] &nbsp; ![Scott's Top Languages][top-languages-image]
+[![Hang In There][hang-in-there-card]][hang-in-there]
 
 <!-- LINKS -->
 [GitHub]: https://github.com/scott-borecki
@@ -134,12 +94,15 @@ I really enjoyed working on these projects and learned a lot!
 [rails-badge]: https://img.shields.io/badge/Rails-345d3c.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white
 
 [ruby-badge]: https://img.shields.io/badge/ruby-345d3c.svg?&style=for-the-badge&logo=ruby&logoColor=white
+[elasticsearch-badge]: https://img.shields.io/badge/elasticsearch-345d3c.svg?&style=for-the-badge&logo=Elasticsearch&logoColor=white
+[opensearch-badge]: https://img.shields.io/badge/opensearch-345d3c.svg?&style=for-the-badge&logo=OpenSearch&logoColor=white
 [sql-badge]: https://img.shields.io/badge/SQL-345d3c.svg?style=for-the-badge&logo=SQL&logoColor=white
 [html-badge]: https://img.shields.io/badge/html5-345d3c.svg?&style=for-the-badge&logo=html5&logoColor=white
 [css-badge]: https://img.shields.io/badge/css3-345d3c.svg?&style=for-the-badge&logo=css3&logoColor=white
 [js-badge]: https://img.shields.io/badge/JavaScript-345d3c.svg?&style=for-the-badge&logo=javascript&logoColor=white
 [active-record-badge]: https://img.shields.io/badge/ActiveRecord-345d3c.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white
 
+[docker-badge]: https://img.shields.io/badge/Docker-345d3c.svg?&style=for-the-badge&logo=docker&logoColor=white
 [git-badge]: https://img.shields.io/badge/git-345d3c.svg?&style=for-the-badge&logo=git&logoColor=white
 [github-badge]: https://img.shields.io/badge/GitHub-345d3c.svg?&style=for-the-badge&logo=github&logoColor=white
 [heroku-badge]: https://img.shields.io/badge/Heroku-345d3c.svg?&style=for-the-badge&logo=heroku&logoColor=white
