@@ -6,13 +6,12 @@
 
 ## Hi, I'm Scott! 👋
 
-👨🏼‍💻 software engineer <br>
-🦺 geotechnical engineer <br>
-🎛️ audio engineer <br>
-🎯 project manager <br>
+👨🏼‍💻 software engineer @ [Weedmaps](https://www.weedmaps.com/) <br>
+🦺 (ex) geotechnical engineer / project manager <br>
+🎛️ (ex) audio engineer @ [Oven Fresh Sounds](https://www.ovenfreshsounds.com/) <br>
 💡 problem solver <br>
 🧙🏻‍♂️ pinball wizard <br>
-🪢 untier of knots <br>
+🧶 knot untangler <br>
 😻 cat dad
 
 ## Languages and Tools
@@ -22,31 +21,43 @@
 ![PostgreSQL][postgresql-badge]
 ![Elasticsearch][elasticsearch-badge]
 ![OpenSearch][opensearch-badge]
+![Sidekiq][sidekiq-badge]
+![redis][redis-badge]
+![RSpec][rspec-badge]
+![Rubocop][rubocop-badge]
+![Capybara][capybara-badge]
+![JavaScript][js-badge]
+![Jest][jest-badge]
 ![HTML][html-badge]
 ![CSS][css-badge]
-![JavaScript][js-badge]
+![SCSS][scss-badge]
 ![Docker][docker-badge]
 ![Git][git-badge]
 ![GitHub][github-badge]
-![Heroku][heroku-badge]
 ![Postman][postman-badge]
+![Postico][postico-badge]
 ![circle-ci][circle-ci-badge]
 ![codefresh][codefresh-badge]
-![travis-ci][travis-ci-badge]
 ![retool][retool-badge]
 
 ## Projects
 
-[![Spot Me (Back End)][spot-me-be-card]][spot-me-be]
-[![Spot Me (Front End)][spot-me-fe-card]][spot-me-fe]
+Here is a collection of highlighted individual and group projects from the beginning of my software engineering career at [Turing School of Software & Design][turing]:
 
-> **[Spot Me](https://spotme-app.herokuapp.com/)** was voted the winner of [Turing School of Software & Design][turing]'s October 2021 DemoComp ([Press](https://writing.turing.edu/purpose-and-plausibility/))
-
+### Individual Projects
 [![Whether, Sweater API][whether-sweater-card]][whether-sweater]
 [![Rails Engine][rails-engine-card]][rails-engine]
 [![Enigma][enigma-card]][enigma]
-[![Mastermind][mastermind-card]][mastermind]
 [![Hang In There][hang-in-there-card]][hang-in-there]
+
+### Group Projects
+> **[Spot Me](https://spotme-app.herokuapp.com/)** was voted the winner of [Turing School of Software & Design][turing]'s October 2021 DemoComp
+> 
+> [5-Minute Project Demo Video](https://www.youtube.com/watch?v=noZ82O6egxM) | [2021 DemoComp Results](https://writing.turing.edu/purpose-and-plausibility/)
+
+[![Spot Me (Back End)][spot-me-be-card]][spot-me-be]
+[![Spot Me (Front End)][spot-me-fe-card]][spot-me-fe]
+[![Mastermind][mastermind-card]][mastermind]
 
 <!-- LINKS -->
 [GitHub]: https://github.com/scott-borecki
@@ -96,10 +107,14 @@
 [ruby-badge]: https://img.shields.io/badge/ruby-345d3c.svg?&style=for-the-badge&logo=ruby&logoColor=white
 [elasticsearch-badge]: https://img.shields.io/badge/elasticsearch-345d3c.svg?&style=for-the-badge&logo=Elasticsearch&logoColor=white
 [opensearch-badge]: https://img.shields.io/badge/opensearch-345d3c.svg?&style=for-the-badge&logo=OpenSearch&logoColor=white
+[sidekiq-badge]: https://img.shields.io/badge/sidekiq-345d3c.svg?&style=for-the-badge&logo=sidekiq&logoColor=white
+[redis-badge]: https://img.shields.io/badge/redis-345d3c.svg?&style=for-the-badge&logo=redis&logoColor=white
 [sql-badge]: https://img.shields.io/badge/SQL-345d3c.svg?style=for-the-badge&logo=SQL&logoColor=white
 [html-badge]: https://img.shields.io/badge/html5-345d3c.svg?&style=for-the-badge&logo=html5&logoColor=white
 [css-badge]: https://img.shields.io/badge/css3-345d3c.svg?&style=for-the-badge&logo=css3&logoColor=white
+[scss-badge]: https://img.shields.io/badge/scss-345d3c.svg?&style=for-the-badge&logo=sass&logoColor=white
 [js-badge]: https://img.shields.io/badge/JavaScript-345d3c.svg?&style=for-the-badge&logo=javascript&logoColor=white
+[jest-badge]: https://img.shields.io/badge/jest-345d3c.svg?&style=for-the-badge&logo=jest&logoColor=white
 [active-record-badge]: https://img.shields.io/badge/ActiveRecord-345d3c.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white
 
 [docker-badge]: https://img.shields.io/badge/Docker-345d3c.svg?&style=for-the-badge&logo=docker&logoColor=white
@@ -107,7 +122,7 @@
 [github-badge]: https://img.shields.io/badge/GitHub-345d3c.svg?&style=for-the-badge&logo=github&logoColor=white
 [heroku-badge]: https://img.shields.io/badge/Heroku-345d3c.svg?&style=for-the-badge&logo=heroku&logoColor=white
 [postgresql-badge]: https://img.shields.io/badge/PostgreSQL-345d3c.svg?&style=for-the-badge&logo=postgresql&logoColor=white
-[postico-badge]: https://img.shields.io/badge/postico-345d3c.svg?&style=for-the-badge&logo=Postico&logoColor=white
+[postico-badge]: https://img.shields.io/badge/postico-345d3c.svg?&style=for-the-badge&logo=postgresql&logoColor=white
 [postman-badge]: https://img.shields.io/badge/Postman-345d3c.svg?&style=for-the-badge&logo=postman&logoColor=white
 [travis-ci-badge]: https://img.shields.io/badge/travis--ci-345d3c.svg?&style=for-the-badge&logo=travis&logoColor=white
 [circle-ci-badge]: https://img.shields.io/badge/CircleCI-345d3c.svg?&style=for-the-badge&logo=circleci&logoColor=white
