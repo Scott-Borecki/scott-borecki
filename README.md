@@ -57,7 +57,6 @@ Here is a collection of highlighted individual and group projects from the begin
 
 [![Spot Me (Back End)][spot-me-be-card]][spot-me-be]
 [![Spot Me (Front End)][spot-me-fe-card]][spot-me-fe]
-[![Mastermind][mastermind-card]][mastermind]
 
 <!-- LINKS -->
 [GitHub]: https://github.com/scott-borecki
