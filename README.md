@@ -12,7 +12,7 @@
 🧶 knot untangler <br>
 😻 cat dad
 
-## Technologies
+## Technologies 👨🏼‍💻
 
 ![RubyOnRails][rails-badge]
 ![Ruby][ruby-badge]
